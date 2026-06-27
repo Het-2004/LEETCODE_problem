@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Het-2004/LEETCODE_problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Het-2004/LEETCODE_problem/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Het-2004/LEETCODE_problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Het-2004/LEETCODE_problem/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Het-2004/LEETCODE_problem/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
