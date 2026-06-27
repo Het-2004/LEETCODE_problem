@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Het-2004/LEETCODE_problem/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
