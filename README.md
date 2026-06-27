@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Het-2004/LEETCODE_problem/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Het-2004/LEETCODE_problem/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Het-2004/LEETCODE_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Het-2004/LEETCODE_problem/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0680-valid-palindrome-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
 ## Trie
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
@@ -110,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
