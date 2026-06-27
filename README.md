@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Het-2004/LEETCODE_problem/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Het-2004/LEETCODE_problem/tree/master/0485-max-consecutive-ones) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Het-2004/LEETCODE_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Het-2004/LEETCODE_problem/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Het-2004/LEETCODE_problem/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
