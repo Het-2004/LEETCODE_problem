@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Het-2004/LEETCODE_problem/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Het-2004/LEETCODE_problem/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Het-2004/LEETCODE_problem/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
