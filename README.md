@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Het-2004/LEETCODE_problem/tree/master/0485-max-consecutive-ones) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Het-2004/LEETCODE_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
