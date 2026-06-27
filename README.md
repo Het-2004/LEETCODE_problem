@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Het-2004/LEETCODE_problem/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Het-2004/LEETCODE_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
