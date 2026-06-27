@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/Het-2004/LEETCODE_problem/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
