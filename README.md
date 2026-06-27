@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Het-2004/LEETCODE_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Het-2004/LEETCODE_problem/tree/master/3223-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0680-valid-palindrome-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Het-2004/LEETCODE_problem/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Het-2004/LEETCODE_problem/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3467-transform-array-by-parity](https://github.com/Het-2004/LEETCODE_problem/tree/master/3467-transform-array-by-parity) |
 ## Recursion
 |  |
