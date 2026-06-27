@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Het-2004/LEETCODE_problem/tree/master/0485-max-consecutive-ones) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Het-2004/LEETCODE_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
 ## Trie
 |  |
@@ -78,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 | [3467-transform-array-by-parity](https://github.com/Het-2004/LEETCODE_problem/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 ## Database
 |  |
