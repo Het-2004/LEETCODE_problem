@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Het-2004/LEETCODE_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/Het-2004/LEETCODE_problem/tree/master/3467-transform-array-by-parity) |
+| [3637-trionic-array-i](https://github.com/Het-2004/LEETCODE_problem/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
