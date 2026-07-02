@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Het-2004/LEETCODE_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1480-running-sum-of-1d-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/Het-2004/LEETCODE_problem/tree/master/3467-transform-array-by-parity) |
 | [3637-trionic-array-i](https://github.com/Het-2004/LEETCODE_problem/tree/master/3637-trionic-array-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Het-2004/LEETCODE_problem/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0216-combination-sum-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -197,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Het-2004/LEETCODE_problem/tree/master/0048-rotate-image) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
