@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Het-2004/LEETCODE_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Het-2004/LEETCODE_problem/tree/master/0303-range-sum-query-immutable) |
+| [0377-combination-sum-iv](https://github.com/Het-2004/LEETCODE_problem/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/Het-2004/LEETCODE_problem/tree/master/0485-max-consecutive-ones) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Het-2004/LEETCODE_problem/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
+| [0377-combination-sum-iv](https://github.com/Het-2004/LEETCODE_problem/tree/master/0377-combination-sum-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
