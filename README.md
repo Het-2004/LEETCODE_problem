@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Het-2004/LEETCODE_problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1480-running-sum-of-1d-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/Het-2004/LEETCODE_problem/tree/master/3467-transform-array-by-parity) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Het-2004/LEETCODE_problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
