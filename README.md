@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Het-2004/LEETCODE_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Het-2004/LEETCODE_problem/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0541-reverse-string-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Het-2004/LEETCODE_problem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Het-2004/LEETCODE_problem/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Het-2004/LEETCODE_problem/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/Het-2004/LEETCODE_problem/tree/master/0377-combination-sum-iv) |
 ## Bit Manipulation
 |  |
