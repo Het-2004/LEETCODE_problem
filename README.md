@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Het-2004/LEETCODE_problem/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Het-2004/LEETCODE_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Het-2004/LEETCODE_problem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Het-2004/LEETCODE_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Het-2004/LEETCODE_problem/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Het-2004/LEETCODE_problem/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Het-2004/LEETCODE_problem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Het-2004/LEETCODE_problem/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Het-2004/LEETCODE_problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Het-2004/LEETCODE_problem/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
 | ------- |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
