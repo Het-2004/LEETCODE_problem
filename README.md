@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/Het-2004/LEETCODE_problem/tree/master/1922-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Het-2004/LEETCODE_problem/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
