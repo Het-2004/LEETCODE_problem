@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Het-2004/LEETCODE_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Het-2004/LEETCODE_problem/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Het-2004/LEETCODE_problem/tree/master/0357-count-numbers-with-unique-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Het-2004/LEETCODE_problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Het-2004/LEETCODE_problem/tree/master/1922-count-good-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Het-2004/LEETCODE_problem/tree/master/0357-count-numbers-with-unique-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Het-2004/LEETCODE_problem/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/Het-2004/LEETCODE_problem/tree/master/0377-combination-sum-iv) |
 ## Bit Manipulation
 |  |
