@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Het-2004/LEETCODE_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Het-2004/LEETCODE_problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Het-2004/LEETCODE_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Het-2004/LEETCODE_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Het-2004/LEETCODE_problem/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Het-2004/LEETCODE_problem/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0541-reverse-string-ii) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Het-2004/LEETCODE_problem/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Het-2004/LEETCODE_problem/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Het-2004/LEETCODE_problem/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Het-2004/LEETCODE_problem/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Het-2004/LEETCODE_problem/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 | [0377-combination-sum-iv](https://github.com/Het-2004/LEETCODE_problem/tree/master/0377-combination-sum-iv) |
 ## Bit Manipulation
 |  |
@@ -241,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Het-2004/LEETCODE_problem/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
