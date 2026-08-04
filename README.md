@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Het-2004/LEETCODE_problem/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/Het-2004/LEETCODE_problem/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/Het-2004/LEETCODE_problem/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 | [0912-sort-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Het-2004/LEETCODE_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
 | [0825-friends-of-appropriate-ages](https://github.com/Het-2004/LEETCODE_problem/tree/master/0825-friends-of-appropriate-ages) |
 ## Database
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -283,4 +287,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Het-2004/LEETCODE_problem/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
