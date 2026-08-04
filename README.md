@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Het-2004/LEETCODE_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Het-2004/LEETCODE_problem/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Het-2004/LEETCODE_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Het-2004/LEETCODE_problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Het-2004/LEETCODE_problem/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Het-2004/LEETCODE_problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Het-2004/LEETCODE_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Het-2004/LEETCODE_problem/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Het-2004/LEETCODE_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Het-2004/LEETCODE_problem/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
